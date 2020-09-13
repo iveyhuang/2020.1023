@@ -17,7 +17,6 @@ get a more recent version or would like support.**
 ## Cite
 
 To cite this software, please cite [the paper](https://arxiv.org/abs/1911.09461) using its DOI `10.1287/ijoc.2020.1023` and the software, using its DOI:
-
 [![DOI](https://zenodo.org/badge/288628730.svg)](https://zenodo.org/badge/latestdoi/288628730)
 
 
@@ -77,4 +76,4 @@ Please find more information on [JANOS's website](http://janos.opt-operations.co
 ## Support
 
 For support in using this software,  please submit an
-[issue](https://github.com/iveyhuang/2020.1023.git/issues) or email [David Bergman](mailto:david.bergman@uconn.edu) and [Teng Huang](mailto:teng.huang@uconn.edu).
+[issue](https://github.com/iveyhuang/2020.1023/issues) or email [David Bergman](mailto:david.bergman@uconn.edu) and [Teng Huang](mailto:teng.huang@uconn.edu).
